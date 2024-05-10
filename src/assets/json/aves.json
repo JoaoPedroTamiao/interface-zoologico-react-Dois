@@ -1,0 +1,44 @@
+[
+    {
+		"index": 1,
+		"src": "./src/assets/aves/beija-flor.jpg",
+		"caption": "Beija-flor",
+        "text": "Lorem Ipsum"
+	},
+	{
+		"index": 2,
+		"src": "./src/assets/aves/coruja.jpg",
+		"caption": "coruja",
+        "text": "Lorem Ipsum"
+	},
+    {
+		"index": 3,
+		"src": "./src/assets/aves/frango.jpg",
+		"caption": "frango",
+        "text": "Lorem Ipsum"
+	},
+    {
+		"index": 4,
+		"src": "./src/assets/aves/galoforte.jpg",
+		"caption": "galoforte",
+        "text": "Lorem Ipsum"
+	},
+    {
+		"index": 5,
+		"src": "./src/assets/aves/pavao.jpeg",
+		"caption": "Pavão",
+        "text": "Lorem Ipsum"
+	},
+	{
+		"index": 6,
+		"src": "./src/assets/aves/seila.jpg",
+		"caption": "Sei lá",
+        "text": "Lorem Ipsum"
+	},
+	{
+		"index": 7,
+		"src": "./src/assets/aves/seila.jpg",
+		"caption": "Sei lá",
+        "text": "Lorem Ipsum"
+	}
+]

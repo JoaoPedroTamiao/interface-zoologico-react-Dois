@@ -1,0 +1,9 @@
+.card-animal {
+    background-color: #A7A000;
+    border: 3px solid #000000;
+    font-family: "Caesar Dressing", system-ui;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    width: 25%;
+    margin-top: 30px;
+}
